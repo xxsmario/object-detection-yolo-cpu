@@ -1,1 +1,1 @@
-# object-detection-yolo-
+# object-detection-yolo-cpu
