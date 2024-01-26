@@ -1,2 +1,2 @@
 # object-detection-yolo-cpu 
-An open-s
+An open-so
