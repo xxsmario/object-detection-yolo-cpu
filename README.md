@@ -1,2 +1,2 @@
 # object-detection-yolo-cpu 
-An open-source project for imp
+An open-source project for implem
