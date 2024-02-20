@@ -1,2 +1,2 @@
 # object-detection-yolo-cpu 
-An open-source project for implementing YOLO based 
+An open-source project for implementing YOLO based Obj
