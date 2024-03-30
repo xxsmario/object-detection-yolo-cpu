@@ -1,2 +1,2 @@
 # object-detection-yolo-cpu 
-An open-source project for implementing YOLO based Object Detection on Images that is optimized for CPU usage. This repos
+An open-source project for implementing YOLO based Object Detection on Images that is optimized for CPU usage. This repository
